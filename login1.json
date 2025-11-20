@@ -116,11 +116,6 @@
       "expiry": "1d",
       "interval": "everytime",
       "toast": "Welcome!"
-    },
-    "dpadmin": {
-      "expiry": "2025-11-20",
-      "interval": "1d",
-      "toast": "Subscribe DPMods"
     }
   }
 }
