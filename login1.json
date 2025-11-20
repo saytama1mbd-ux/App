@@ -1,7 +1,7 @@
 {
   "config": {
     "country": "Bangladesh",
-    "updateAvailable": false,
+    "updateAvailable": true,
     "themeColor": "#ff0000",
     "textColor": "#0000ff"
   },
