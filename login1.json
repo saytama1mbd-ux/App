@@ -27,11 +27,6 @@
       "interval": "everytime",
       "toast": "3-Day Trial Started ⏳"
     },
-    "12-HOUR-PASS": {
-      "expiry": "12h",
-      "interval": "1h",
-      "toast": "12 Hour Session Started ⚡"
-    },
     "MONTHLY-SUB": {
       "expiry": "1m",
       "interval": "1d",
