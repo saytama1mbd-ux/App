@@ -2,8 +2,8 @@
   "config": {
     "country": "Bangladesh",
     "updateAvailable": false,
-    "themeColor": "#0000ff",
-    "textColor": "#000000"
+    "themeColor": "#ff00ff",
+    "textColor": "#ffffff"
   },
   "loginDialog": {
     "title": "SAYTAMA1M",
