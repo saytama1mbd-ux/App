@@ -22,11 +22,6 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "TRIAL-KEY": {
-      "expiry": "3d",
-      "interval": "everytime",
-      "toast": "3-Day Trial Started ⏳"
-    },
     "MONTHLY-SUB": {
       "expiry": "1m",
       "interval": "1d",
