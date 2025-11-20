@@ -1,9 +1,9 @@
 {
   "config": {
-    "country": "India",
+    "country": "Bangladesh",
     "updateAvailable": false,
-    "themeColor": "#8e44ad",
-    "textColor": "#ffffff"
+    "themeColor": "#ff0000",
+    "textColor": "#0000ff"
   },
   "loginDialog": {
     "title": "Welcome To DPMods",
