@@ -22,11 +22,6 @@
     "adminUrl": "https://t.me/your_channel"
   },
   "keys": {
-    "MONTHLY-SUB": {
-      "expiry": "1m",
-      "interval": "1d",
-      "toast": "Monthly Access Granted ✅"
-    },
     "YEARLY-PRO": {
       "expiry": "1y",
       "interval": "1week",
