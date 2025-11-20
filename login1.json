@@ -27,11 +27,6 @@
       "interval": "everytime",
       "toast": "3-Day Trial Started ⏳"
     },
-    "1-HOUR-TEST": {
-      "expiry": "1h",
-      "interval": "everytime",
-      "toast": "1 Hour Test Active 🕐"
-    },
     "12-HOUR-PASS": {
       "expiry": "12h",
       "interval": "1h",
