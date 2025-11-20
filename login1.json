@@ -21,5 +21,7 @@
     "adminButtonText": "Help",
     "adminUrl": "https://t.me/your_channel"
   },
-  "keys": {}
+  "keys": {
+    "SAYTAMA1M-INMB": "1d"
+  }
 }
