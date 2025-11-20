@@ -21,11 +21,5 @@
     "adminButtonText": "Help",
     "adminUrl": "https://t.me/your_channel"
   },
-  "keys": {
-    "YEARLY-PRO": {
-      "expiry": "1y",
-      "interval": "1week",
-      "toast": "Yearly Pro Subscription 🌟"
-    }
-  }
+  "keys": {}
 }
