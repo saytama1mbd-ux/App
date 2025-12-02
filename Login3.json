@@ -1,0 +1,31 @@
+{
+  "config": {
+    "country": "Bangladesh",
+    "updateAvailable": false,
+    "themeColor": "#ff00ff",
+    "textColor": "#ffffff"
+  },
+  "loginDialog": {
+    "title": "SAYTAMA1M",
+    "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
+    "loginButtonText": "Login",
+    "adminButtonText": "Get Key",
+    "adminUrl": "https://t.me/your_channel"
+  },
+  "updateDialog": {
+    "title": "Critical Update!",
+    "subtitle": "A mandatory update is available. You cannot continue without updating.",
+    "downloadButtonText": "Update Now",
+    "downloadUrl": "https://example.com/app.apk",
+    "showAdminButton": false,
+    "adminButtonText": "Help",
+    "adminUrl": "https://t.me/your_channel"
+  },
+  "keys": {
+    "SAYTAMA1M": {
+      "expiry": "2026-03-01",
+      "interval": "onetime",
+      "toast": "100৳"
+    }
+  }
+}
