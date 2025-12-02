@@ -1,0 +1,41 @@
+{
+  "showOnDate": "2024-11-06T00:00:00Z",
+  "keys": {
+    "dpmods": {
+      "deviceId": "3ba4a93f018dc799",
+      "expiryDate": "2024-07-09T23:59:59Z"
+    },
+    "key-for-another-user": {
+      "deviceId": "0987654321fedcba",
+      "expiryDate": "2025-12-01T23:59:59Z"
+    },
+    "my-master-key": {
+      "deviceId": "ANY",
+      "expiryDate": "2099-12-31T23:59:59Z"
+    },
+    "an-expired-key": {
+      "deviceId": "1111111111111111",
+      "expiryDate": "2020-01-01T23:59:59Z"
+    }
+  },
+  "update_dialog": {
+    "topText": "Update Available",
+    "mainQuestion": "A new version is ready!",
+    "buttonText": "Download Now",
+    "buttonClickUrl": "https://www.youtube.com/@DPModsYT"
+  },
+  "login_dialog": {
+    "topText": "Access Required",
+    "buttonText": "Login",
+    "adminButtonText": "Admin",
+    "adminButtonUrl": "https://t.me/YourTelegramLink"
+  },
+  "common_style": {
+    "topIconAsset": "icon.png",
+    "topIconSpin": true,
+    "animateGradient": true,
+    "buttonGradientStartColor": "#FFDAB9",
+    "buttonGradientEndColor": "#E6E6FA",
+    "buttonTextColor": "#333333"
+  }
+}
